@@ -1,0 +1,8 @@
+E:\bridgelabz\helloworld\uc5\obj\Debug\uc5.csproj.AssemblyReference.cache
+E:\bridgelabz\helloworld\uc5\obj\Debug\uc5.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\helloworld\uc5\obj\Debug\uc5.csproj.CoreCompileInputs.cache
+E:\bridgelabz\helloworld\uc5\bin\Debug\uc5.exe.config
+E:\bridgelabz\helloworld\uc5\bin\Debug\uc5.exe
+E:\bridgelabz\helloworld\uc5\bin\Debug\uc5.pdb
+E:\bridgelabz\helloworld\uc5\obj\Debug\uc5.exe
+E:\bridgelabz\helloworld\uc5\obj\Debug\uc5.pdb
